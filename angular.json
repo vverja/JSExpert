@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "users-list"
+  "defaultProject": "users-list",
+  "cli": {
+    "analytics": false
+  }
 }
